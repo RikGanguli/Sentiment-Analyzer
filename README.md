@@ -37,16 +37,22 @@
   <pre><code>python3 server.py</code></pre>
 
   <h2>Screenshots:</h2>
-  <ol>
-    <li><h3> Identifying positive text:</h3>
-    <p><image src="./Sentiment Positive.png"</image></p></li>
+<ol>
+  <li>
+    <h3>Identifying positive text:</h3>
+    <img src="Sentiment_Positive.png" alt="Positive Sentiment">
+  </li>
 
-    <li><h3> Identifying negative text:</h3>
-    <p><image src="./Sentiment Negative.png"</image></p></li>
+  <li>
+    <h3>Identifying negative text:</h3>
+    <img src="Sentiment_Negative.png" alt="Negative Sentiment">
+  </li>
 
-    <li><h3> Identifying neutral text:</h3>
-    <p><image src="./Sentiment Neutral.png"</image></p></li>
-  </ol>
+  <li>
+    <h3>Identifying neutral text:</h3>
+    <img src="Sentiment_Neutral.png" alt="Neutral Sentiment">
+  </li>
+</ol>
   
 
   <h2>Technologies Used</h2>
