@@ -40,7 +40,7 @@
 <ol>
   <li>
     <h3>Identifying positive text:</h3>
-    <img src="Sentiment_Positive.png" alt="Positive Sentiment" style="border: 2px solid black; padding: 5px;">
+    <img src="Sentiment_Positive.png" alt="Positive Sentiment" style="border: 2px solid black; background-color: lightgray; padding: 10px;">
   </li>
 
   <li>
