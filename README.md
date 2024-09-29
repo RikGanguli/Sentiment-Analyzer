@@ -40,17 +40,17 @@
 <ol>
   <li>
     <h3>Identifying positive text:</h3>
-    <img src="Sentiment_Positive.png" alt="Positive Sentiment">
+    <img src="Sentiment_Positive.png" alt="Positive Sentiment" style="border: 2px solid black; padding: 5px;">
   </li>
 
   <li>
     <h3>Identifying negative text:</h3>
-    <img src="Sentiment_Negative.png" alt="Negative Sentiment">
+    <img src="Sentiment_Negative.png" alt="Negative Sentiment" style="border: 2px solid black; padding: 5px;">
   </li>
 
   <li>
     <h3>Identifying neutral text:</h3>
-    <img src="Sentiment_Neutral.png" alt="Neutral Sentiment">
+    <img src="Sentiment_Neutral.png" alt="Neutral Sentiment" style="border: 2px solid black; padding: 5px;">
   </li>
 </ol>
   
